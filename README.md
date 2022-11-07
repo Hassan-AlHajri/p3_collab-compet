@@ -13,8 +13,8 @@ This yields a single score for each episode.
 The environment is considered solved, when the average (over 100 episodes) of those scores is at least +0.5.
 
 # Requirements
-* For Building the environment, please follow [this link] (https://github.com/udacity/deep-reinforcement-learning#dependencies)
-* Download Coninuous Control [Unity enviroment] (https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Soccer/Soccer_Windows_x86_64.zip)
+* For Building the environment, please follow [this link](https://github.com/udacity/deep-reinforcement-learning#dependencies)
+* Download Coninuous Control [Unity enviroment](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Soccer/Soccer_Windows_x86_64.zip)
 * Install the needed Dependencies by running pip install -r requirements.txt
 
 # Instruction
