@@ -13,12 +13,11 @@ This yields a single score for each episode.
 The environment is considered solved, when the average (over 100 episodes) of those scores is at least +0.5.
 
 # Requirements
-pip install unityagents
-pip install numpy
-pip install matplotlib
-install pytorch following the instructions on the pytorch website: https://pytorch.org/get-started/locally/
+* For Building the environment, please follow [this link] (https://github.com/udacity/deep-reinforcement-learning#dependencies)
+* Download Coninuous Control [Unity enviroment] (https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Soccer/Soccer_Windows_x86_64.zip)
+* Install the needed Dependencies by running pip install -r requirements.txt
 
 # Instruction
 
-Run Tennis which is the notebook that contains the solution of the environment.
+Run Tennis.ipynb which is the notebook that contains the solution of the environment.
 
